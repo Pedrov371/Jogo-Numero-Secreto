@@ -1,4 +1,4 @@
-# Gerenciador de Jogos
+# Jogo
 
 >Status do projeto: em andamento.
 
