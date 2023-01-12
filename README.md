@@ -1,9 +1,9 @@
-# Jogo
+# Jogo: Número Secreto
 
->Status do projeto: em andamento.
+>Status do projeto: finalizado.
 
-Para rodar esse projeto na sua máquina, por favor digite:
+Nesse jogo o seu objetivo é adivinhar um número entre 0 e 1000, atravez de comandos de voz
 
-``
-node app.js
-``
+este é o link: https://jogo-numero-secreto-pedrov371.vercel.app/
+
+Este é um jogo que fiz como estudo, espero que gostem.
